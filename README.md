@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     srcset="https://github-readme-stats.vercel.app/api?sujinjwa=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?sujinjwa=anuraghazra&show_icons=true" />
 </picture>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?sujinjwa=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
